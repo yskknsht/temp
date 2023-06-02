@@ -1,0 +1,252 @@
+/* screen - myplans-html */
+
+.myplans-html {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  padding: 29px 0;
+  width: 1280px;
+}
+
+.myplans-html .flex-row {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 48px;
+  margin-left: -5px;
+  min-width: 1231px;
+}
+
+.myplans-html .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  text-align: center;
+  width: 225px;
+}
+
+.myplans-html .text-23 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 732px;
+  min-height: 43px;
+  text-align: center;
+  width: 198px;
+}
+
+.myplans-html .vector {
+  height: 44px;
+  margin-left: 32px;
+  margin-top: 1px;
+  width: 44px;
+}
+
+.myplans-html .line-1 {
+  height: 2px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 1280px;
+}
+
+.myplans-html .overlap-group2 {
+  height: 209px;
+  margin-left: 1.0px;
+  margin-top: 93px;
+  position: relative;
+  width: 1149px;
+}
+
+.myplans-html .user {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 340px;
+}
+
+.myplans-html .rectangle-3 {
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 65px;
+  width: 1149px;
+}
+
+.myplans-html .text-container {
+  height: 30px;
+  left: 53px;
+  position: absolute;
+  top: 118px;
+  width: 554px;
+}
+
+.myplans-html .text-24 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 554px;
+}
+
+.myplans-html .text-25 {
+  left: 82px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.myplans-html .text-26 {
+  left: 224px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.myplans-html .text-27 {
+  left: 602px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.myplans-html .text-32 {
+  left: 970px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  width: 111px;
+}
+
+.myplans-html .text-33 {
+  left: 971px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+  width: 111px;
+}
+
+.myplans-html .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-3.png);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 145px;
+  height: 144px;
+  margin-left: 1.0px;
+  margin-top: 22px;
+  min-width: 1149px;
+  padding: 31px 53px;
+}
+
+.myplans-html .overlap-group4 {
+  align-self: center;
+  height: 31px;
+  margin-bottom: 9.0px;
+  position: relative;
+  width: 772px;
+}
+
+.myplans-html .text-container-1 {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.myplans-html .text-28 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 568px;
+}
+
+.myplans-html .text-29 {
+  left: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.myplans-html .text-30 {
+  left: 228px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.myplans-html .text-31 {
+  left: 554px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.myplans-html .text-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 112px;
+}
+
+.myplans-html .text-34 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  text-align: center;
+  width: 111px;
+}
+
+.myplans-html .text-35 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 34px;
+  text-align: center;
+  width: 111px;
+}

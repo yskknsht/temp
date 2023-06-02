@@ -1,0 +1,45 @@
+/* screen - xue-binoke-xue-nituite */
+
+.xue-binoke-xue-nituite {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  padding: 31.0px 41.5px;
+  width: 1280px;
+}
+
+.xue-binoke-xue-nituite .arrow-1 {
+  align-self: flex-start;
+  height: 22px;
+  width: 64px;
+}
+
+.xue-binoke-xue-nituite .text-68 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 89.5px;
+  margin-top: 67px;
+  min-height: 38px;
+  text-align: center;
+  width: 302px;
+}
+
+.xue-binoke-xue-nituite .xue-binoke-xue-nituite-item {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 16px;
+  min-height: 114px;
+  width: 1018px;
+}
+
+.xue-binoke-xue-nituite .interleaving {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 52px;
+  min-height: 114px;
+  width: 1018px;
+}

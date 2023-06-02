@@ -1,0 +1,72 @@
+/* screen - content-html-action-simplify */
+
+.content-html-action-simplify {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  padding: 29px 0;
+  width: 1280px;
+}
+
+.content-html-action-simplify .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-left: -5px;
+  min-width: 1231px;
+}
+
+.content-html-action-simplify .ai-name {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  text-align: center;
+  width: 225px;
+}
+
+.content-html-action-simplify .text-63 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 732px;
+  min-height: 43px;
+  text-align: center;
+  width: 198px;
+}
+
+.content-html-action-simplify .vector {
+  height: 44px;
+  margin-left: 32px;
+  margin-top: 1px;
+  width: 44px;
+}
+
+.content-html-action-simplify .line-1 {
+  height: 2px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 1280px;
+}
+
+.content-html-action-simplify .arrow-2 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 59.5px;
+  margin-top: 41px;
+  width: 64px;
+}
+
+.content-html-action-simplify .an-array-is-a-data-s {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 37.0px;
+  margin-top: 5px;
+  min-height: 355px;
+  width: 1057px;
+}

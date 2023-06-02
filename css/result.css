@@ -1,0 +1,133 @@
+/* screen - result */
+
+.result {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: 832px;
+  padding: 38.0px 0;
+  width: 1280px;
+}
+
+.result .flex-row {
+  gap: 331px;
+  height: 221px;
+  min-width: 1247px;
+}
+
+.result .flex-col {
+  flex-direction: column;
+  gap: 66px;
+  min-height: 210px;
+  width: 678px;
+}
+
+.result .arrow-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 38.5px;
+  width: 64px;
+}
+
+.result .overlap-group2 {
+  height: 122px;
+  position: relative;
+  width: 678px;
+}
+
+.result .ai-name {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: 307px;
+}
+
+.result .text-container {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 672px;
+}
+
+.result .text-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 672px;
+}
+
+.result .text-2 {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 132px;
+}
+
+.result .text-3 {
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 132px;
+}
+
+.result .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 123px;
+  min-height: 214px;
+  width: 238px;
+}
+
+.result .text-5 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  text-align: center;
+  width: 185px;
+}
+
+.result .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 48px;
+  min-width: 152px;
+}
+
+.result .text-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 41px;
+  text-align: center;
+  width: 152px;
+}
+
+.result .x1st-month-basics-w {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  min-height: 477px;
+  width: 1043px;
+}

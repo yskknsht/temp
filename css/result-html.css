@@ -1,0 +1,148 @@
+/* screen - result-html */
+
+.result-html {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  height: 832px;
+  padding: 38.0px 0;
+  width: 1280px;
+}
+
+.result-html .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 221px;
+  min-width: 1247px;
+}
+
+.result-html .flex-col {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 66px;
+  min-height: 210px;
+  width: 835px;
+}
+
+.result-html .arrow-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 38.5px;
+  width: 64px;
+}
+
+.result-html .overlap-group3 {
+  height: 122px;
+  position: relative;
+  width: 835px;
+}
+
+.result-html .ai-name {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: 307px;
+}
+
+.result-html .text-container {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 672px;
+}
+
+.result-html .text-16 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 672px;
+}
+
+.result-html .text-17 {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 132px;
+}
+
+.result-html .text-18 {
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 132px;
+}
+
+.result-html .text-21 {
+  left: 617px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.result-html .overlap-group {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 48px;
+  min-width: 152px;
+}
+
+.result-html .text {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 41px;
+  text-align: center;
+  width: 152px;
+}
+
+.result-html .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 123px;
+  margin-left: 22px;
+  min-height: 214px;
+  width: 238px;
+}
+
+.result-html .text-20 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  text-align: center;
+  width: 185px;
+}
+
+.result-html .x1st-month-basics-w {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 47.0px;
+  min-height: 477px;
+  width: 1043px;
+}

@@ -1,0 +1,242 @@
+/* screen - plan-html */
+
+.plan-html {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  padding: 1px 0;
+  width: 1280px;
+}
+
+.plan-html .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  margin-left: -5px;
+  margin-top: 28px;
+  min-width: 1231px;
+}
+
+.plan-html .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  text-align: center;
+  width: 225px;
+}
+
+.plan-html .text-36 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 732px;
+  min-height: 43px;
+  text-align: center;
+  width: 198px;
+}
+
+.plan-html .vector {
+  height: 44px;
+  margin-left: 32px;
+  margin-top: 1px;
+  width: 44px;
+}
+
+.plan-html .line-1 {
+  height: 2px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 1280px;
+}
+
+.plan-html .arrow-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-left: 43.5px;
+  margin-top: 30px;
+  width: 64px;
+}
+
+.plan-html .text-container {
+  align-items: flex-end;
+  display: flex;
+  height: 30px;
+  margin-left: 108px;
+  margin-top: 54px;
+  min-width: 772px;
+}
+
+.plan-html .text-37 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: 554px;
+}
+
+.plan-html .text-38 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1px;
+  min-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.plan-html .text-container-1 {
+  align-self: center;
+  height: 113px;
+  margin-left: 36.0px;
+  margin-top: 13px;
+  position: relative;
+  width: 1100px;
+}
+
+.plan-html .text-39 {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+  width: 304px;
+}
+
+.plan-html .text-40 {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 644px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 72px;
+  width: 304px;
+}
+
+.plan-html .text-41 {
+  color: var(--suva-gray);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1100px;
+}
+
+.plan-html .overlap-group-container {
+  align-self: flex-end;
+  height: 477px;
+  margin-right: -535px;
+  position: relative;
+  width: 1712px;
+}
+
+.plan-html .overlap-group1 {
+  height: 477px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 1707px;
+}
+
+.plan-html .x1st-month-basics-w {
+  left: 644px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1063px;
+}
+
+.plan-html .x1st-month-basics-w-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1043px;
+}
+
+.plan-html .rectangle-6 {
+  left: 407px;
+  top: 32px;
+}
+
+.plan-html .rectangle-7 {
+  left: 249px;
+  top: 60px;
+}
+
+.plan-html .rectangle-8 {
+  left: 348px;
+  top: 88px;
+}
+
+.plan-html .rectangle-9 {
+  left: 165px;
+  top: 122px;
+}
+
+.plan-html .rectangle-10 {
+  left: 400px;
+  top: 199px;
+}
+
+.plan-html .rectangle-11 {
+  left: 249px;
+  top: 240px;
+}
+
+.plan-html .rectangle-12 {
+  left: 348px;
+  top: 268px;
+}
+
+.plan-html .rectangle-13 {
+  left: 165px;
+  top: 296px;
+}
+
+.plan-html .overlap-group {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 38px;
+  left: 0;
+  min-width: 184px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 369px;
+}
+
+.plan-html .text-42 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 32px;
+  text-align: center;
+  width: 184px;
+}
+
+.plan-html .rectangle {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 28px;
+  position: absolute;
+  width: 28px;
+}

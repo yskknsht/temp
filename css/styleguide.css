@@ -1,0 +1,104 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --delta: #a3a3a3;
+  --suva-gray: #888888;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 20px;
+  --font-size-s: 15px;
+  --font-size-xl: 25px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 35px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-noto_sans_jp: "Noto Sans JP", Helvetica;
+}
+.notosansjp-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-extra-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.notosansjp-black-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-normal-delta-25px {
+  color: var(--delta);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosansjp-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.notosansjp-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosansjp-light-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}

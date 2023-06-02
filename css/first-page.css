@@ -1,0 +1,132 @@
+/* screen - first-page */
+
+.first-page {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  padding: 39px 42px;
+  width: 1280px;
+}
+
+.first-page .text-15 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 43px;
+  text-align: center;
+  width: 198px;
+}
+
+.first-page .overlap-group2 {
+  height: 123px;
+  margin-left: 2.0px;
+  margin-top: 175px;
+  position: relative;
+  width: 582px;
+}
+
+.first-page .title {
+  left: 178px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 225px;
+}
+
+.first-page .ai-name {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 582px;
+}
+
+.first-page .span {
+  color: var(--suva-gray);
+}
+
+.first-page .span1 {
+  color: #64aac0;
+}
+
+.first-page .prompt {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 6.0px;
+  margin-top: 36px;
+  min-width: 678px;
+}
+
+.first-page .text-container {
+  height: 85px;
+  position: relative;
+  width: 672px;
+}
+
+.first-page .text-12 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 672px;
+}
+
+.first-page .text-13 {
+  left: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 132px;
+}
+
+.first-page .text-14 {
+  left: 270px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 132px;
+}
+
+.first-page .button {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 35px;
+  min-width: 117px;
+}
+
+.first-page .overlap-group {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 48px;
+  min-width: 115px;
+}
+
+.first-page .text-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 41px;
+  text-align: center;
+  width: 115px;
+}

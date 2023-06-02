@@ -1,0 +1,273 @@
+/* screen - module-html */
+
+.module-html {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 832px;
+  overflow: hidden;
+  padding: 29px 0;
+  width: 1280px;
+}
+
+.module-html .flex-row {
+  height: 48px;
+  margin-left: -5px;
+  min-width: 1231px;
+}
+
+.module-html .title {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  text-align: center;
+  width: 225px;
+}
+
+.module-html .text-43 {
+  align-self: flex-end;
+  cursor: pointer;
+  margin-left: 732px;
+  min-height: 43px;
+  text-align: center;
+  width: 198px;
+}
+
+.module-html .vector {
+  height: 44px;
+  margin-left: 32px;
+  margin-top: 1px;
+  width: 44px;
+}
+
+.module-html .line-1 {
+  height: 2px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 1280px;
+}
+
+.module-html .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 108px;
+  margin-left: 43.5px;
+  margin-top: 29px;
+  min-width: 982px;
+}
+
+.module-html .flex-col {
+  align-self: flex-start;
+  flex-direction: column;
+  gap: 42px;
+  min-height: 102px;
+  width: 718px;
+}
+
+.module-html .arrow-1 {
+  cursor: pointer;
+  height: 22px;
+  width: 64px;
+}
+
+.module-html .surname {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  width: 669px;
+}
+
+.module-html .rectangle-6 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 28px;
+  margin-bottom: 5.0px;
+  width: 28px;
+}
+
+.module-html .overlap-group {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 10px;
+  display: flex;
+  height: 38px;
+  margin-left: 49px;
+  min-width: 184px;
+  padding: 0.0px 0;
+}
+
+.module-html .text-62 {
+  min-height: 32px;
+  text-align: center;
+  width: 184px;
+}
+
+.module-html .overlap-group1 {
+  align-self: center;
+  height: 266px;
+  margin-right: 37.0px;
+  margin-top: 44px;
+  position: relative;
+  width: 1057px;
+}
+
+.module-html .table-of-contents-i {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1057px;
+}
+
+.module-html .text-44 {
+  left: 215px;
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-45 {
+  left: 215px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-46 {
+  left: 259px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-47 {
+  left: 260px;
+  position: absolute;
+  top: 125px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-48 {
+  left: 334px;
+  position: absolute;
+  top: 148px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-49 {
+  left: 216px;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-50 {
+  left: 216px;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-51 {
+  left: 216px;
+  position: absolute;
+  top: 222px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-52 {
+  left: 254px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-53 {
+  left: 275px;
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-54 {
+  left: 275px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-55 {
+  left: 319px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-56 {
+  left: 320px;
+  position: absolute;
+  top: 125px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-57 {
+  left: 394px;
+  position: absolute;
+  top: 148px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-58 {
+  left: 276px;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-59 {
+  left: 276px;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-60 {
+  left: 276px;
+  position: absolute;
+  top: 222px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text-61 {
+  left: 314px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.module-html .text {
+  letter-spacing: 0;
+  line-height: normal;
+}
